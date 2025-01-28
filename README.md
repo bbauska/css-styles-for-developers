@@ -83,11 +83,11 @@ https://github.com/brandonmcconnell/typed.css
 ## CSS Clay
 https://codeadrian.github.io/clay.css/
 
-## 
+## Icon Libraries
+https://www.frontendplanet.com/best-icon-libraries/
 
-
-## 
-
+## Chrome Extensions for Developers
+https://www.frontendplanet.com/top-chrome-extensions-for-frontend-developers/
 
 ## 
 
