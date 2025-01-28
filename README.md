@@ -46,17 +46,39 @@ https://gridle.dev/
 ## CSS Grid Generator, II
 https://cssgrid-generator.netlify.app/
 
-## 
+## CSS Border Radius Generator, I
+https://playground.eddydezuraud.com/craft/radius-master/
 
+## CSS Border Radius Generator, II
+https://9elements.github.io/fancy-border-radius/
 
-## 
+## CSS Bor=der Generator, I
+https://wavier.art/
 
+## CSS Border Generator, II
+https://css-generators.com/custom-borders/
 
-## 
+## Open Props (A whole lot of CSS stuff)
+https://open-props.style/
 
+## Metallic CSS
+https://www.metallicss.com/
 
-## 
+## CSS Scrollbar
+https://scrollbar.app/
 
+## Paper Prototypoe CSS
+https://edent.gitlab.io/paper-prototype-css/
+
+## Lightening CSS
+An extremely fast CSS parser, transformer, bundler, and minifier.
+https://lightningcss.dev/
+
+## Doodle CSS
+https://chr15m.github.io/DoodleCSS/
+
+## CSS Text Typing Animation
+https://github.com/brandonmcconnell/typed.css
 
 ## 
 
