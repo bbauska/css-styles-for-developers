@@ -80,8 +80,8 @@ https://chr15m.github.io/DoodleCSS/
 ## CSS Text Typing Animation
 https://github.com/brandonmcconnell/typed.css
 
-## 
-
+## CSS Clay
+https://codeadrian.github.io/clay.css/
 
 ## 
 
