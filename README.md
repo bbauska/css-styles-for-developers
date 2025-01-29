@@ -4,32 +4,20 @@
 <tr>
 <th align="center">
 <img width="441" height="1">
-<p> 
+<p>
 <small>
-Countdown
+## <a href="https://chrisburnell.com/event-countdown/" target="_blank" rel="noopener">Event Countdown</a>
 </small>
 </p>
 </th>
 <th align="center">
 <img width="441" height="1">
-<p> 
-<small>
-Column 2
-</small>
-</p>
+## <a href="https://cssgui.com/" target="_blank" rel="noopener">CSS GUI</a>
 </th>
 </tr>
 <tr>
 <td>
-<!-- REMOVE THE BACKSLASHES -->
 
-## <a href="https://chrisburnell.com/event-countdown/" target="_blank" rel="noopener">Event Countdown</a>
-</td>
-<td>
-<!-- REMOVE THE BACKSLASHES -->
-
-## <a href="https://cssgui.com/" target="_blank" rel="noopener">CSS GUI</a>
-</td>
 </tr>
 <tr>
 <td align="center">
@@ -42,7 +30,8 @@ Column 2
 ## <a href="https://css-generators.com/ribbon-shapes/" target="_blank" rel="noopener">CSS Shape Libraries</a>
 
 </td>
-
+</tr>
+<tr>
 <td align="center">
 
 ## <a href="https://getcssscan.com/css-shapes" target="_blank" rel="noopener">CSS Shapes</a>
@@ -53,7 +42,8 @@ Column 2
 ## <a href="https://piccalil.li/blog/a-more-modern-css-reset/" target="_blank" rel="noopener">CSS Resets</a>
 
 </td>
-<td align="center">
+</tr>
+<tr><td align="center">
 
 ## <a href="https://www.joshwcomeau.com/css/custom-css-reset/" target="_blank" rel="noopener">CSS Reset by Josh</a>
 
