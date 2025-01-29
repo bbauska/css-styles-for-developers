@@ -3,11 +3,13 @@
 <table>
 <tr>
 <th align="center">
-<img width="441" height="1">
+<!-- <img width="441" height="1"> -->
+<img width="220" height="1">
 <h2></h2><a href="https://chrisburnell.com/event-countdown/" target="_blank" rel="noopener">Event Countdown</a></h2>
 </th>
 <th align="center">
-<img width="441" height="1">
+<<!-- <img width="441" height="1"> -->
+<img width="220" height="1">
 <h2><a href="https://cssgui.com/" target="_blank" rel="noopener">CSS GUI</a></h2>
 </th>
 </tr>
@@ -16,15 +18,13 @@
 <td align="center">
 <h2><a href="https://css-generators.com/ribbon-shapes/" target="_blank" rel="noopener">CSS Shape Libraries</a></h2>
 </td>
-<tr>
 <td align="center">
 <h2><a href="https://getcssscan.com/css-shapes" target="_blank" rel="noopener">CSS Shapes</a></h2>
 </td>
+<tr>
 <td align="center">
 <h2><a href="https://piccalil.li/blog/a-more-modern-css-reset/" target="_blank" rel="noopener">CSS Resets</a></h2>
 </td>
-</tr>
-<tr><td align="center">
 <h2><a href="https://www.joshwcomeau.com/css/custom-css-reset/" target="_blank" rel="noopener">CSS Reset by Josh</a></h2>
 </td>
 <td align="center">
