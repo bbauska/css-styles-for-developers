@@ -22,7 +22,7 @@ EXAMPLE TEXT
 <tr>
 <td>
 <!-- REMOVE THE BACKSLASHES -->
-\```jsonc
+```jsonc
 {
   "foo": [
     {
@@ -30,12 +30,12 @@ EXAMPLE TEXT
     }
   ]
 }
-\```
+```
   
 </td>
 <td>
 <!-- REMOVE THE BACKSLASHES -->
-\```jsonc
+```jsonc
 {
   "foo": [
     {
@@ -43,7 +43,7 @@ EXAMPLE TEXT
     }
   ]
 }
-\```
+```
   
 </td>
 </tr>
