@@ -22,6 +22,7 @@ EXAMPLE TEXT
 <tr>
 <td>
 <!-- REMOVE THE BACKSLASHES -->
+
 ```jsonc
 {
   "foo": [
@@ -35,6 +36,7 @@ EXAMPLE TEXT
 </td>
 <td>
 <!-- REMOVE THE BACKSLASHES -->
+
 ```jsonc
 {
   "foo": [
