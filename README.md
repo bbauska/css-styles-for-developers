@@ -23,43 +23,14 @@ EXAMPLE TEXT
 <td>
 <!-- REMOVE THE BACKSLASHES -->
 
-```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-```
-  
+## <a href="https://chrisburnell.com/event-countdown/" target="_blank" rel="noopener">Event Countdown</a>
 </td>
 <td>
 <!-- REMOVE THE BACKSLASHES -->
 
-```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-```
-  
+## <a href="https://cssgui.com/" target="_blank" rel="noopener">CSS GUI</a>
 </td>
 </tr>
-<tr>
-<td align="center">
-
-## <a href="https://chrisburnell.com/event-countdown/" target="_blank" rel="noopener">Event Countdown</a>
-
-</td>
-<td align="center">
-
-## <a href="https://cssgui.com/" target="_blank" rel="noopener">CSS GUI</a>
-
-</td>
 <tr>
 <td align="center">
 
