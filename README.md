@@ -6,7 +6,7 @@
 <img width="441" height="1">
 <p> 
 <small>
-EXAMPLE TEXT
+Countdown
 </small>
 </p>
 </th>
@@ -14,7 +14,7 @@ EXAMPLE TEXT
 <img width="441" height="1">
 <p> 
 <small>
-EXAMPLE TEXT
+Column 2
 </small>
 </p>
 </th>
