@@ -1,5 +1,5 @@
 # css-styles-for-developers
-Tools for CSS Style development: https://www.frontendplanet.com/useful-css-tools/
+<a href="https://www.frontendplanet.com/useful-css-tools/" target="_blank" rel="noopener">Tools for CSS Style development</a>
 
 ## Event Countdown
 <a href="https://chrisburnell.com/event-countdown/" target="_blank" rel="noopener">Event Countdown</a>
