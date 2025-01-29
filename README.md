@@ -60,6 +60,7 @@ EXAMPLE TEXT
 ## <a href="https://cssgui.com/" target="_blank" rel="noopener">CSS GUI</a>
 
 </td>
+<tr>
 <td align="center">
 
 ## <a href="https://css-generators.com/polygon-shape/" target="_blank" rel="noopener">CSS Generators</a>
@@ -70,6 +71,7 @@ EXAMPLE TEXT
 ## <a href="https://css-generators.com/ribbon-shapes/" target="_blank" rel="noopener">CSS Shape Libraries</a>
 
 </td>
+
 <td align="center">
 
 ## <a href="https://getcssscan.com/css-shapes" target="_blank" rel="noopener">CSS Shapes</a>
