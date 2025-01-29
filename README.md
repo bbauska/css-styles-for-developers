@@ -2,7 +2,7 @@
 Tools for CSS Style development: https://www.frontendplanet.com/useful-css-tools/
 
 ## Event Countdown
-https://chrisburnell.com/event-countdown/
+<a href="https://chrisburnell.com/event-countdown/" target="_blank" rel="noopener">Event Countdown</a>
 
 ## CSS GUI
 https://cssgui.com/
