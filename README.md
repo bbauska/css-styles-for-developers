@@ -56,13 +56,6 @@ Column 2
 </td>
 </tr>
 </table>
-<table>
-<tr>
-<th> First Column</th>
-<th> Second Column </th>
-</tr>
-<tr>
-<td>
 
 ## <a href="" target="_blank" rel="noopener">Event Countdown
 <a href="https://chrisburnell.com/event-countdown/" target="_blank" rel="noopener">Event Countdown</a>
