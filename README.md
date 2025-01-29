@@ -1,37 +1,96 @@
 # <a href="https://www.frontendplanet.com/useful-css-tools/" target="_blank" rel="noopener">39 CSS Styles for Developers</a>
-<a href="https://www.frontendplanet.com/useful-css-tools/" target="_blank" rel="noopener">Tools for CSS Style development</a>
+<table>
+<tr>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+EXAMPLE TEXT
+</small>
+</p>
+</th>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+EXAMPLE TEXT
+</small>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+<!-- REMOVE THE BACKSLASHES -->
+\```jsonc
+{
+  "foo": [
+    {
+      "bar": "hello world"
+    }
+  ]
+}
+\```
+  
+</td>
+<td>
+<!-- REMOVE THE BACKSLASHES -->
+\```jsonc
+{
+  "foo": [
+    {
+      "bar": "hello world"
+    }
+  ]
+}
+\```
+  
+</td>
+</tr>
+<tr>
+<td align="center">
+Column 1
+</td>
+<td align="center">
+Column 2
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<th> First Column</th>
+<th> Second Column </th>
+</tr>
+<tr>
+<td>
 
-## Event Countdown
+## <a href="" target="_blank" rel="noopener">Event Countdown
 <a href="https://chrisburnell.com/event-countdown/" target="_blank" rel="noopener">Event Countdown</a>
-
-## CSS GUI
-https://cssgui.com/
-
-## CSS Generators
-https://css-generators.com/polygon-shape/
-
-## CSS Shape Libraries
-https://css-generators.com/ribbon-shapes/
-
-## CSS Shapes
+</td>
+## <a href="https://cssgui.com/" target="_blank" rel="noopener">CSS GUI</a>
+<td>
+## <a href="https://css-generators.com/polygon-shape/" target="_blank" rel="noopener">CSS Generators</a>
+</td>
+## <a href="https://css-generators.com/ribbon-shapes/" target="_blank" rel="noopener">CSS Shape Libraries</a>
+<td>
+## <a href="" target="_blank" rel="noopener">CSS Shapes
 https://getcssscan.com/css-shapes
-
-## CSS Resets
+</td>
+## <a href="" target="_blank" rel="noopener">CSS Resets
 https://piccalil.li/blog/a-more-modern-css-reset/
 
-## CSS Reset by Josh
+## <a href="" target="_blank" rel="noopener">CSS Reset by Josh
 https://www.joshwcomeau.com/css/custom-css-reset/
 
-## CSS Easing Generator, I
+## <a href="" target="_blank" rel="noopener">CSS Easing Generator, I
 https://easyeasings.mauri.app/
 
-## CSS Easing Generator, II
+## <a href="" target="_blank" rel="noopener">CSS Easing Generator, II
 https://epiceasing.com/?curve=0.470%2C0.000%2C0.745%2C0.715&language=css
 
-## CSS Box Shadow Generator, I
+## <a href="" target="_blank" rel="noopener">CSS Box Shadow Generator, I
 https://alvarotrigo.com/shadow-gradients/
 
-## CSS Box Shadow Generator, II
+## <a href="" target="_blank" rel="noopener">CSS Box Shadow Generator, II
 https://boxshadows.xyz/
 
 ## CSS Flexbox Generator, I
