@@ -4,25 +4,19 @@
 <tr>
 <th align="center">
 <img width="441" height="1">
-<p>
-<small>
-## <a href="https://chrisburnell.com/event-countdown/" target="_blank" rel="noopener">Event Countdown</a>
+<h2></h2><a href="https://chrisburnell.com/event-countdown/" target="_blank" rel="noopener">Event Countdown</a></h2>
 </small>
-</p>
 </th>
 <th align="center">
 <img width="441" height="1">
-## <a href="https://cssgui.com/" target="_blank" rel="noopener">CSS GUI</a>
+<h2><a href="https://cssgui.com/" target="_blank" rel="noopener">CSS GUI</a></h2>
 </th>
 </tr>
 <tr>
-<td>
-
+<td><a href="https://css-generators.com/polygon-shape/" target="_blank" rel="noopener">CSS Generators</a></td>
 </tr>
 <tr>
 <td align="center">
-
-## <a href="https://css-generators.com/polygon-shape/" target="_blank" rel="noopener">CSS Generators</a>
 
 </td>
 <td align="center">
